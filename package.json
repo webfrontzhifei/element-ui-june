@@ -1,0 +1,30 @@
+{
+  "name": "vue-element",
+  "version": "1.0.0",
+  "description": "A Component Library for Vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webfrontzhifei/vue-element.git"
+  },
+  "keywords": [
+    "vue-element",
+    "vue",
+    "components"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webfrontzhifei/vue-element/issues"
+  },
+  "peerDependencies": {
+    "vue": "^2.1.6"
+  },
+  "homepage": "https://github.com/webfrontzhifei/vue-element#readme",
+  "devDependencies": {
+    "vue": "^2.3.4"
+  }
+}

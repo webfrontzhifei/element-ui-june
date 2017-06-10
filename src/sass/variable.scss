@@ -1,0 +1,64 @@
+
+$color-base: #444;
+$font-base: "Microsoft YaHei", "sans-serif";
+$bg-base: #f5f5f5;
+
+$placeholder: #ccc;
+$scrollbars-size: 6px;
+$scrollbars-bg: #ccc;
+$scrollbar-thumb-bg: #999;
+$scrollbar-thumb-border-radius: 3px;
+
+$primary: #2972cc;
+
+$success: #5cb85c;
+
+$danger: #ed4259;
+
+$btn-default-bg: #fff;
+$btn-default-border: #d1d2d4;
+$btn-default-color: #4a4a4a;
+
+$btn-primary-bg: $primary;
+$btn-primary-border: #2566b7;
+$btn-primary-color: #fff;
+
+$btn-danger-bg: $danger;
+$btn-danger-border: #eb2b45;
+$btn-danger-color: #fff;
+
+$btn-link-bg: transparent;
+$btn-link-border: transparent;
+$btn-link-color: #2972cc;
+
+$checkbox-bg-color: #fff;
+$checkbox-border-color: #e0e1e2;
+$checkbox-border-radius: 1px;
+$checkbox-size: 16px;
+$checkbox-checked-bg-color: $primary;
+$checkbox-checked-border-color: $primary;
+$checkbox-checked-inner-color: #fff;
+
+$radio-bg-color: #fff;
+$radio-border-color: #e0e1e2;
+$radio-border-radius: 50%;
+$radio-size: 16px;
+$radio-checked-bg-color: $primary;
+$radio-checked-border-color: $primary;
+$radio-checked-inner-color: #fff;
+
+$spinner-color: #fff;
+
+$switch-background: #ccc;
+$switch-width: 40px;
+$switch-height: 20px;
+$switch-line-height: 20px;
+$switch-border: 1px solid #ccc;
+$switch-border-radius: 20px;
+$switch-border-checked: 1px solid #317cd3;
+$switch-checked-background: #317cd3;
+$switch-checked-color: #fff;
+
+$table-border-color: #E0E1E2;
+$table-content-color: #4a4a4a;
+$table-operation-color: $primary;
